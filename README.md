@@ -27,6 +27,6 @@ The goal of this project is to create a counter that:
 - **Decrease (−)** button to decrement the value
 - **Reset button** to reset the counter value to 0
 - Simple and responsive user interface
-- Background with a **horizontal gradient from red to blue**
+
 
 ---
