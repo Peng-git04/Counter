@@ -31,3 +31,8 @@ The goal of this project is to create a counter that:
 
 
 ---
+
+
+## 🌐 Try the Live Site
+
+Check out and interact with the counter live here:[JavaScript Counter](https://peng-git04.github.io/Counter/)
